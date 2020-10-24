@@ -28,6 +28,7 @@ PyTorch
 
 * https://github.com/python-engineer/pytorchTutorial
 * https://github.com/omerbsezer/Fast-Pytorch
+* https://pytorch.org/tutorials/beginner/ptcheat.html
 
 
 
