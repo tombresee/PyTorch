@@ -29,7 +29,7 @@ PyTorch
 * https://github.com/python-engineer/pytorchTutorial
 * https://github.com/omerbsezer/Fast-Pytorch
 * https://pytorch.org/tutorials/beginner/ptcheat.html
-
+* https://towardsdatascience.com/deep-learnings-mathematics-f52b3c4d2576
 
 
 |
