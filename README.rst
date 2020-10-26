@@ -17,7 +17,10 @@
 
 
 
+
 |
+
+
 
 
 References
@@ -25,7 +28,9 @@ References
 
 
 
+
 |
+
 
 
 
@@ -40,9 +45,16 @@ PyTorch
 * notebooks: https://github.com/ageron/handson-ml2
 * https://github.com/ageron/handson-ml2/blob/master/13_loading_and_preprocessing_data.ipynb
 * https://ruder.io/optimizing-gradient-descent/
+* https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/
+
+
+
+
 
 
 |
+
+
 
 
 Articles
@@ -53,6 +65,9 @@ Articles
 - `Implementing a Neural Network from Scratch in Python <http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/>`_
 
 * https://towardsdatascience.com/training-a-neural-network-using-pytorch-72ab708da210
+
+
+
 
 
 |
