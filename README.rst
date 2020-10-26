@@ -16,11 +16,16 @@
 ======================
 
 
+
 |
 
 
 References
 ===========
+
+
+
+|
 
 
 PyTorch
@@ -30,6 +35,9 @@ PyTorch
 * https://github.com/omerbsezer/Fast-Pytorch
 * https://pytorch.org/tutorials/beginner/ptcheat.html
 * https://towardsdatascience.com/deep-learnings-mathematics-f52b3c4d2576
+* https://github.com/omerbsezer/Fast-Pytorch
+* notebooks: https://github.com/ageron/handson-ml2
+
 
 
 |
