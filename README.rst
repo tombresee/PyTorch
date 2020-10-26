@@ -49,5 +49,7 @@ Articles
 -----------
 
 - `An overview of gradient descent optimization algorithms <https://ruder.io/optimizing-gradient-descent/>`_
+- `Implementing a Neural Network from Scratch in Python <http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/>`_
+
 
 
