@@ -28,6 +28,7 @@ References
 |
 
 
+
 PyTorch
 ---------
 
@@ -37,6 +38,7 @@ PyTorch
 * https://towardsdatascience.com/deep-learnings-mathematics-f52b3c4d2576
 * https://github.com/omerbsezer/Fast-Pytorch
 * notebooks: https://github.com/ageron/handson-ml2
+* https://github.com/ageron/handson-ml2/blob/master/13_loading_and_preprocessing_data.ipynb
 
 
 
