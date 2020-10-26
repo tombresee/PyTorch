@@ -39,16 +39,15 @@ PyTorch
 * https://github.com/omerbsezer/Fast-Pytorch
 * notebooks: https://github.com/ageron/handson-ml2
 * https://github.com/ageron/handson-ml2/blob/master/13_loading_and_preprocessing_data.ipynb
-
+* https://ruder.io/optimizing-gradient-descent/
 
 
 |
 
 
+Articles
+-----------
 
-Videos
----------
-
-- `PACF <https://www.youtube.com/watch?v=DeORzP0go5I>`_
+- `An overview of gradient descent optimization algorithms <https://ruder.io/optimizing-gradient-descent/>`_
 
 
