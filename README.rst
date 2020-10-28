@@ -39,7 +39,7 @@ Review
 
 * https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_convolutional_neuralnetwork/
 
-
+* https://cs231n.github.io/neural-networks-1/
 
 
 |
