@@ -33,6 +33,7 @@ References
 Review 
 ---------
 
+* https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/#3-building-a-feedforward-neural-network-with-pytorch-gpu
 
 * https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/#3-building-a-feedforward-neural-network-with-pytorch-gpu
 
