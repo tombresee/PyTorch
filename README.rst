@@ -33,6 +33,8 @@ References
 Review 
 ---------
 
+* https://github.com/amitrajitbose/handwritten-digit-recognition
+
 * https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/#3-building-a-feedforward-neural-network-with-pytorch-gpu
 
 * https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/#3-building-a-feedforward-neural-network-with-pytorch-gpu
@@ -41,6 +43,7 @@ Review
 
 * https://cs231n.github.io/neural-networks-1/
 
+* https://github.com/pytorch/examples
 
 |
 
