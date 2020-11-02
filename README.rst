@@ -12,22 +12,46 @@
 
 
 ======================
-    PyTorch
+    Deep Learning
 ======================
 
 
 
+|
+
+
+Michigan References
+=====================
+
 
 |
 
 
+Review 
+---------
+
+1. week1
+1. https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+1  https://ruder.io/optimizing-gradient-descent/
+1. http://neuralnetworksanddeeplearning.com/chap1.html
+1. http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
+1. week2
+1. https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
+1. https://www.cs.ryerson.ca/~aharley/vis/conv/
+1. https://cs231n.github.io/convolutional-networks/
+1. https://www.deeplearningbook.org/contents/convnets.html
+1. week3
+1. http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+1. https://www.deeplearningbook.org/contents/rnn.html
+1. week4
+1. https://wiki.pathmind.com/generative-adversarial-network-gan
 
 
-References
-===========
+
 
 
 |
+
 
 
 Review 
@@ -44,6 +68,8 @@ Review
 * https://cs231n.github.io/neural-networks-1/
 
 * https://github.com/pytorch/examples
+
+
 
 |
 
@@ -70,10 +96,7 @@ PyTorch
 
 
 
-
-
 |
-
 
 
 
@@ -87,18 +110,13 @@ Articles
 * https://towardsdatascience.com/training-a-neural-network-using-pytorch-72ab708da210
 
 
-
-
 |
-
-
 
 
 Books
 -----------
 
 - `COURSE MAIN BOOK <https://learning.oreilly.com/library/view/building-machine-learning/9781492045106/>`_
-
 
 
 
