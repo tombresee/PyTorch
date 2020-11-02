@@ -35,7 +35,10 @@ Review
 ---------
 
 * https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson4-collab.ipynb
-
+* https://github.com/fastai/courses
+* https://www.cs.ryerson.ca/~aharley/vis/conv/
+* https://github.com/pytorch/pytorch
+* activation functions:  https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/
 
 
 
@@ -48,7 +51,7 @@ Review
 
 
 
-Review 
+Coursera 
 ---------
 
 1. week1
