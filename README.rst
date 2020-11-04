@@ -24,16 +24,32 @@ Michigan References
 =====================
 
 
+
 |
 
 
+
+
+RNN 
+---------
+
+* LSTM:  http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+* https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+* https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
+
+
+
+
+
+|
+
+
+
+
 Review 
 ---------
 
-* 
-Review 
----------
-
+* super 3D: https://www.cs.ryerson.ca/~aharley/vis/conv/
 * https://nbviewer.jupyter.org/github/fastai/course-v3/blob/master/nbs/dl1/lesson4-collab.ipynb
 * https://github.com/fastai/courses
 * https://www.cs.ryerson.ca/~aharley/vis/conv/
@@ -43,16 +59,12 @@ Review
 
 
 
-
-
 |
 
 
 
-
-
 Coursera 
----------
+-----------
 
 1. week1
 1. https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
@@ -75,6 +87,7 @@ Coursera
 
 
 |
+
 
 
 
